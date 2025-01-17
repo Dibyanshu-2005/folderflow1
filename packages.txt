@@ -1,0 +1,8 @@
+libmagic1               # File type detection (for unstructured or related libraries)
+libglib2.0-0            # General GLib utilities (common for many libraries)
+libcairo2               # Graphics rendering (for PDF/image rendering)
+libpango-1.0-0          # Text layout and rendering
+libpangocairo-1.0-0     # Pango with Cairo support
+libgdk-pixbuf2.0-0      # GDK Pixbuf for image handling
+libffi-dev              # Foreign function interface (used by cryptography libraries)
+libssl-dev              # SSL/TLS support for secure communication
